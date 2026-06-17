@@ -67,15 +67,6 @@ The objective of this project is to help stakeholders monitor sales performance,
 - Tracked customer purchasing behavior.
 - Highlighted products requiring strategic attention.
 
----
-
-## 📷 Dashboard Preview
-
-### Main Dashboard
-
-![Dashboard](assets/dashboard.png)
-
----
 
 ## 📂 Project Structure
 
@@ -86,19 +77,7 @@ Excel-Sales-Dashboard/
 ├── README.md
 └── assets/
     └── dashboard.png
-```
 
----
-
-## 🚀 How to Use
-
-1. Download the Excel file.
-2. Open in Microsoft Excel (2019 or later recommended).
-3. Navigate to the Dashboard sheet.
-4. Use slicers and filters to interact with the dashboard.
-5. Explore KPIs and visualizations for insights.
-
----
 
 ## 💡 Skills Demonstrated
 
